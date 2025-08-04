@@ -1,0 +1,18 @@
+{
+  "name": "pet-preview-system",
+  "version": "1.0.0",
+  "main": "src/index.jsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "@vitejs/plugin-react": "^4.0.0"
+  }
+}
